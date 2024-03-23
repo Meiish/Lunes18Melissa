@@ -1,4 +1,5 @@
-﻿using System;
+﻿using prueba1.Properties;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +11,9 @@ namespace prueba1
     {
         static void Main(string[] args)
         {
-
+            Controller controller = new Controller();
+            //casi me equivoco, no era = es un .
+            controller.Ejecutador();
         }
     }
 }

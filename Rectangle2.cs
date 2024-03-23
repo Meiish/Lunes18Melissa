@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace prueba1.Properties
+namespace prueba1
 {
     //este sera el metodo rectangle que heredara de shape :3
     //todos los hijos de shape tendran el metodo de calcular area wii
-    internal class Rectangle:Shape
+    internal class Rectangle : Shape
     {
         private float b;
         private float h;
