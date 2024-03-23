@@ -20,6 +20,7 @@ namespace prueba1.Properties
             //no entendi muy bien porq se ponia this pero alonso dijo:
             //es para especificar que hablas de la variable que está dentro de la clase y no la del parametro
             //solo es necesario si tanto la variable de la clase como el parámetro del constructor se llaman igual
+            //ya entendi xD leelo de nuevo x2
             this.b = b;
             this.h = h;
         }
